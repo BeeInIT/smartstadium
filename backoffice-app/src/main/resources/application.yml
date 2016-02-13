@@ -1,0 +1,10 @@
+process:
+  findpath:
+    name: Findpath
+    cpbin: /process/bee-smart-stadium-os
+    bin: /Users/zaid/IdeaProjects/smartstadium/backoffice-app/src/main/resources/process/bee-smart-stadium-os
+    defaultfile: /Users/zaid/IdeaProjects/smartstadium/backoffice-app/src/main/resources/default-graph.lgf
+
+security:
+  user:
+    password: password
